@@ -46,4 +46,4 @@ Resident Evil 2: Remake
 > RE2\\re2.exe
 
 Resident Evil 3: Remake
-- RE3\\re3.exe
+> RE3\\re3.exe
