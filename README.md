@@ -1,7 +1,8 @@
 # ntdll-unix-hack
 
+<br>
 
-### Disable fastmath
+## Disable fastmath
 UE4 engine
 > -Win64-Shipping.exe
 
@@ -41,7 +42,9 @@ Sunset Overdrive
 Crab Champions
 > \\CrabChampions.exe
 
-### Disable LOD workaround
+<br>
+
+## Disable LOD workaround
 Resident Evil 2: Remake
 > RE2\\re2.exe
 
