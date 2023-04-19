@@ -47,3 +47,6 @@ Resident Evil 2: Remake
 
 Resident Evil 3: Remake
 > RE3\\re3.exe
+
+Devil May Cry 5
+> \\DevilMayCry5.exe
